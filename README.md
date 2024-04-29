@@ -31,4 +31,6 @@ This repo contains the code for the vara take home full stack coding assignment.
 
 The file will run on your localhost. 
 
+The code for the main is present in App.js. 
+
 
